@@ -1,2 +1,2 @@
 # Gaussian-Elimination
-Solves linear systems of 3 equations or 3 or less unknowns.
+Solves linear systems of 3 equations with 3 or less unknowns.
